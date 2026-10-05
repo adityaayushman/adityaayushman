@@ -26,3 +26,8 @@ I am an AI and Machine Learning Undergraduate at SRM Institute of Science and Te
 ### 🏆 GitHub Trophies
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=adityaayushman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
+
+
+### 🔥 GitHub Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=adityaayushman&theme=tokyonight&hide_border=true)
