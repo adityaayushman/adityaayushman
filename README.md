@@ -22,3 +22,7 @@ I am an AI and Machine Learning Undergraduate at SRM Institute of Science and Te
 [![](https://komarev.com/ghpvc/?username=adityaayushman&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+### 🏆 GitHub Trophies
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=adityaayushman&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)
