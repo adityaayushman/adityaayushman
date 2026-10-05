@@ -19,7 +19,7 @@
 
 ### 🚀 About me
 
-- 🎓 3rd-year **B.Tech CSE (AI & ML)** at SRM Institute of Science and Technology, class of 2027
+- 🎓 Final-year **B.Tech CSE (AI & ML)** student at SRM Institute of Science and Technology, graduating 2027
 - 🧠 I build end-to-end ML systems: model → API → dashboard → live deployment, with explainability built in
 - 💼 Intern at **Osswal Infosystem** (SAP partner), building with Flutter alongside SAP Business One
 - 🏆 Hackathons, competitive programming, and committee roles at **Aaruush** and the **SRM MUN Society**
