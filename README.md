@@ -95,10 +95,10 @@
 ### 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=adityaayushman&theme=tokyonight&hide_border=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaayushman&theme=tokyonight&hide_border=true&layout=compact" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&show_icons=true" />
+  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&layout=compact" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaayushman&theme=tokyonight&hide_border=true" />
+  <img src="https://streak-stats.demolab.com?user=adityaayushman&theme=dark&background=000000&hide_border=true" />
 </p>
