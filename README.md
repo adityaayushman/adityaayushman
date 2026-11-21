@@ -32,8 +32,8 @@
 | Project | What it does | Stack | Links |
 |---|---|---|---|
 | 🚦 **[Smart Road Guardian AI X](https://github.com/adityaayushman/TRIE)** | Explainable multimodal edge-AI that predicts road accidents before they happen | YOLOv11 · MediaPipe · LSTM · FastAPI · Next.js | [Live](https://trie-dashboard.vercel.app) |
-| 🔬 **[PCBMind AI](https://github.com/adityaayushman/pcb-mind)** | PCB defect inspection SaaS with golden-board comparison, SPC drift alerts and an LLM copilot | YOLOv8 · OpenCV · FastAPI · Next.js · Supabase | [Code](https://github.com/adityaayushman/pcb-mind) |
-| ⚡ **[GridSense](https://github.com/adityaayushman/GRIDSENSE)** | Carbon-aware EV charging optimizer: one transformer hosts 5.3× more EVs | Linear programming · FastAPI · React · TypeScript | [Live](https://gridsense-app-adityaasahoo-gmailcoms-projects.vercel.app) |
+| 🔬 **[PCBMind AI](https://github.com/adityaayushman/pcb-mind)** | PCB defect inspection SaaS with golden-board comparison, SPC drift alerts and an LLM copilot | YOLOv8 · OpenCV · FastAPI · Next.js · Supabase | [Live](https://pcbmind-ai.vercel.app) |
+| ⚡ **[GridSense](https://github.com/adityaayushman/GRIDSENSE)** | Carbon-aware EV charging optimizer: one transformer hosts 5.3× more EVs | Linear programming · FastAPI · React · TypeScript | [Live](https://gridsense-app-drab.vercel.app) |
 | 🩺 **[MedChron AI](https://github.com/adityaayushman/medvision)** | Medical imaging platform with Grad-CAM explainability and a patient Digital Twin | PyTorch · EfficientNet · OpenCV · FastAPI · Next.js | [Live](https://medchron-ai.vercel.app) |
 | ☁️ **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | Multi-cloud autoscaler: XGBoost forecasting + Deep Q-Network, explained with SHAP | XGBoost · DQN · scikit-learn · FastAPI · React | [Live](https://cloudresourceoptimizer.vercel.app) |
 | 🧓 **[Pre-Impact Fall Anticipation](https://github.com/adityaayushman/FBimpact)** | Privacy-preserving ST-GCN that predicts elderly falls before impact | PyTorch · ST-GCN · TensorFlow.js · FastAPI | [API](https://fbimpact-api.onrender.com/docs) |
