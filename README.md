@@ -1,47 +1,63 @@
 <div align="center">
 
-# Hi, I'm Aditya Ayushman Sahoo 👋
+# Aditya Ayushman Sahoo
 
-### AI/ML Engineer · Computer Vision · Full-Stack ML Systems
+### AI/ML Engineer · Computer Vision · Explainable AI
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(AI%2FML)+%40+SRM+IST+%E2%80%9927;I+ship+ML+models+as+deployed%2C+explainable+products;Computer+Vision+%C2%B7+Reinforcement+Learning+%C2%B7+XAI" alt="Typing SVG" /></a>
+**I turn ML research into deployed, explainable products, and I report what the numbers really show.**
 
 <p>
   <a href="https://pf-eight-xi.vercel.app"><img src="https://img.shields.io/badge/View_my_Portfolio-6A1B9A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
   <a href="https://pf-eight-xi.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0e75b6?style=for-the-badge&logo=readme&logoColor=white" /></a>
+  <a href="mailto:adityaasahoo@gmail.com"><img src="https://img.shields.io/badge/Email_me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/aditya-ayushman-sahoo-243b81287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
-<p>
-  <a href="https://www.linkedin.com/in/aditya-ayushman-sahoo-243b81287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:adityaasahoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://stackoverflow.com/users/32775623/aditya-ayushman-sahoo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
-  <img src="https://komarev.com/ghpvc/?username=adityaayushman&label=Profile%20views&color=0e75b6&style=for-the-badge" />
-</p>
+📫 **Open to 2027 ML / SDE roles and internships.** The fastest way to reach me is **adityaasahoo@gmail.com**.
 
 </div>
 
 ---
 
-### 🚀 About me
+### ⚡ At a glance
 
-- 🎓 Final-year **B.Tech CSE (AI & ML)** student at SRM Institute of Science and Technology, graduating 2027
-- 🧠 I build end-to-end ML systems: model → API → dashboard → live deployment, with explainability built in
-- 💼 Intern at **Osswal Infosystem** (SAP partner), building with Flutter alongside SAP Business One
-- 🏆 Hackathons, competitive programming, and committee roles at **Aaruush** and the **SRM MUN Society**
-- 📫 Open to **2027 SDE / ML engineering roles and internships**. Reach me on LinkedIn or email
+**6 live ML products** · **1 published research preprint** · **5 internships** · **300+ LeetCode problems** · Final-year B.Tech CSE (AI & ML), SRM IST, graduating 2027
+
+---
+
+### 🎬 See it working
+
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://trie-dashboard.vercel.app"><img src="github-demos/TRIE/demo.webp" alt="Smart Road Guardian AI X demo" width="260" /></a><br />
+      <b>Smart Road Guardian AI X</b><br />Road-accident risk, explained
+    </td>
+    <td align="center" width="33%">
+      <a href="https://pcbmind-ai.vercel.app"><img src="github-demos/pcb-mind/demo.webp" alt="PCBMind AI demo" width="260" /></a><br />
+      <b>PCBMind AI</b><br />PCB defect inspection from a photo
+    </td>
+    <td align="center" width="33%">
+      <a href="https://gridsense-app-drab.vercel.app"><img src="github-demos/GRIDSENSE/demo.webp" alt="GridSense demo" width="260" /></a><br />
+      <b>GridSense</b><br />Carbon-aware EV charging
+    </td>
+  </tr>
+</table>
 
 ---
 
 ### 🛠️ Featured projects
 
-| Project | What it does | Stack | Links |
-|---|---|---|---|
-| 🚦 **[Smart Road Guardian AI X](https://github.com/adityaayushman/TRIE)** | Explainable multimodal edge-AI that predicts road accidents before they happen | YOLOv11 · MediaPipe · LSTM · FastAPI · Next.js | [Live](https://trie-dashboard.vercel.app) |
-| 🔬 **[PCBMind AI](https://github.com/adityaayushman/pcb-mind)** | PCB defect inspection SaaS with golden-board comparison, SPC drift alerts and an LLM copilot | YOLOv8 · OpenCV · FastAPI · Next.js · Supabase | [Live](https://pcbmind-ai.vercel.app) |
-| ⚡ **[GridSense](https://github.com/adityaayushman/GRIDSENSE)** | Carbon-aware EV charging optimizer: one transformer hosts 5.3× more EVs | Linear programming · FastAPI · React · TypeScript | [Live](https://gridsense-app-drab.vercel.app) |
-| 🩺 **[MedChron AI](https://github.com/adityaayushman/medvision)** | Medical imaging platform with Grad-CAM explainability and a patient Digital Twin | PyTorch · EfficientNet · OpenCV · FastAPI · Next.js | [Live](https://medchron-ai.vercel.app) |
-| ☁️ **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | Multi-cloud autoscaler: XGBoost forecasting + Deep Q-Network, explained with SHAP | XGBoost · DQN · scikit-learn · FastAPI · React | [Live](https://cloudresourceoptimizer.vercel.app) |
-| 🧓 **[Pre-Impact Fall Anticipation](https://github.com/adityaayushman/FBimpact)** | Privacy-preserving ST-GCN that predicts elderly falls before impact | PyTorch · ST-GCN · TensorFlow.js · FastAPI | [Live](https://fbimpact.vercel.app) · [API](https://fbimpact-api.onrender.com/docs) |
+Each one runs live, with source and documentation on GitHub.
+
+| Project | Result | Live |
+|---|---|---|
+| 🚦 **[Smart Road Guardian AI X](https://github.com/adityaayushman/TRIE)** | Explainable edge-AI that scores road-accident risk in real time. Road-damage detection reaches 33% mAP50 on held-out Indian images, and a learned risk model beats the hand-set rule (AUC 0.78 → 0.82) | [Live](https://trie-dashboard.vercel.app) |
+| 🔬 **[PCBMind AI](https://github.com/adityaayushman/pcb-mind)** | Upload a board photo and get annotated defects, severity and a QA report in seconds, with golden-board comparison and an LLM copilot | [Live](https://pcbmind-ai.vercel.app) |
+| ⚡ **[GridSense](https://github.com/adityaayushman/GRIDSENSE)** | Schedules home EV charging against real grid carbon and price data. One street transformer hosts about **4× more EVs** (median 4.1× over 20 fleet draws, range 3.3–5.3×) | [Live](https://gridsense-app-drab.vercel.app) |
+| 🩺 **[MedChron AI](https://github.com/adityaayushman/medvision)** | Brain-MRI tumor classification at 85.7% accuracy and ROC-AUC 0.969, with Grad-CAM explanations and a patient Digital Twin | [Live](https://medchron-ai.vercel.app) |
+| ☁️ **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | In closed-loop simulation on real cloud traces, cuts cost 19–40% against an ML-only baseline, with task failures under 1% | [Live](https://cloudresourceoptimizer.vercel.app) |
+| 🧓 **[Pre-Impact Fall Anticipation](https://github.com/adityaayushman/FBimpact)** | Predicts a fall before impact and names the joints that signalled it. Runs at 61 fps on GPU and 28.6 fps on CPU, and only skeletons are sent to the server | [Live](https://fbimpact.vercel.app) · [API](https://fbimpact-api.onrender.com/docs) |
 
 ---
 
@@ -51,62 +67,18 @@
 |---|---|
 | 📄 **Published research** | *Cloud Computing Resource Optimizer*, SSRN preprint (2026). XGBoost forecasting + Deep Q-Network autoscaling with explainable AI. [Read the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6957438) |
 | 💼 **5 industry and research internships** | Research Intern at **KIIT** (AI medical imaging) · Flutter Developer at **Osswal Infosystem** (SAP partner) · AI/ML at **Kukreja's Wastec** (PCB defect inspection) · **Syllogistek Systems** · **Silicon Institute of Technology** |
-| 🚀 **Systems shipped end to end** | 6 ML products from model to API to live dashboard, each with explainability built in. See the projects above |
+| 🚀 **Systems shipped end to end** | 6 ML products from model to API to live dashboard, each with explainability built in |
 | 👥 **Leadership** | Committee Head at **Aaruush**, SRM's national techno-management fest · Committee Member, **SRM MUN Society** |
 | 🧮 **Problem solving** | 300+ problems solved on [LeetCode](https://leetcode.com/u/AdityaAyushmanSahoo/), including about 65 Hard |
 | 🎓 **Certifications** | NPTEL Java · Cisco Networking Basics · MathWorks Deep Learning Onramp · AICTE NEAT Cybersecurity Virtual Internship · Tata Data Visualisation (Forage) |
 
 ---
 
-### 🧰 Tech stack
+### 🧰 Core skills
 
-**Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-</p>
-
-**AI / ML**
-<p>
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/YOLO-111F68?style=for-the-badge&logo=yolo&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
-  <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-  <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge&logo=xgboost&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge&logo=google&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-</p>
-
-**Web, backend & data**
-<p>
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-</p>
-
-**Cloud & DevOps**
-<p>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-</p>
+**ML and vision:** PyTorch · TensorFlow · YOLO · OpenCV · XGBoost · Reinforcement Learning · Explainable AI
+**Engineering:** Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Supabase · Docker · Flutter
+**Delivery:** Vercel · Render · AWS · GitHub Actions
 
 ---
 
@@ -115,8 +87,4 @@
 <p align="center">
   <img height="165" src="https://github-readme-stats.shion.dev/api?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&show_icons=true" />
   <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&layout=compact" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adityaayushman&theme=dark&background=000000&hide_border=true" />
 </p>
