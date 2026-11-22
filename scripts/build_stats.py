@@ -87,12 +87,12 @@ def main():
 
     # ---- layout: flat, theme-aware, no gradients --------------------------
     pub = sum(1 for r in own if not r["archived"] and not r["private"])
-    W, H = 860, 410
+    W, H = 860, 400
     F = "font-family=\"-apple-system,'Segoe UI',Helvetica,Arial,sans-serif\""
     o = [f'<svg xmlns="http://www.w3.org/2000/svg" width="{W+24}" height="{H}" viewBox="-12 0 {W+24} {H}" role="img" '
          f'aria-label="GitHub activity summary for {USER}">',
-         '<style>.t{fill:#1f2328}.m{fill:#59636e}.l{stroke:#d1d9e0}.b{fill:#59636e}.c0{fill:#ebedf0}.c1{fill:#9be9a8}.c2{fill:#40c463}.c3{fill:#30a14e}.c4{fill:#216e39}'
-         '@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.m{fill:#9198a1}.l{stroke:#3d444d}.b{fill:#9198a1}.c0{fill:#151b23}.c1{fill:#033a16}.c2{fill:#196c2e}.c3{fill:#2ea043}.c4{fill:#56d364}}</style>']
+         '<style>.t{fill:#1f2328}.m{fill:#59636e}.l{stroke:#d1d9e0}.b{fill:#59636e}.gs{stroke:#30a14e}.c0{fill:#ebedf0}.c1{fill:#9be9a8}.c2{fill:#40c463}.c3{fill:#30a14e}.c4{fill:#216e39}'
+         '@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.m{fill:#9198a1}.l{stroke:#3d444d}.b{fill:#9198a1}.gs{stroke:#2ea043}.c0{fill:#151b23}.c1{fill:#033a16}.c2{fill:#196c2e}.c3{fill:#2ea043}.c4{fill:#56d364}}</style>']
 
     kpis = [(f"{contrib_total:,}", "Contributions, last 12 months"), (str(pub), "Public repositories"),
             (str(len(langs)), "Languages used")]
@@ -106,33 +106,54 @@ def main():
         o.append(f'<text class="m" x="{tx:.0f}" y="68" {F} font-size="12">{label}</text>')
     o.append(f'<line class="l" x1="0" y1="96" x2="{W}" y2="96"/>')
 
-    # contribution heatmap, GitHub's own green scale
-    o.append(f'<text class="t" x="0" y="124" {F} font-size="13" font-weight="600">Contributions in the last year</text>')
+    # weekly trend (area chart) and weekday pattern, in GitHub's green
     weeks = cal["weeks"]
-    peak = max(d["contributionCount"] for w in weeks for d in w["contributionDays"]) or 1
-    cell, step, gx, gy = 12, 15.4, 0, 164
-    last_m = None
+    wk = [sum(d["contributionCount"] for d in w["contributionDays"]) for w in weeks]
+    first = next((i for i, v in enumerate(wk) if v), 0)
+    first = max(0, min(first - 2, len(wk) - 20))  # start just before the first active week
+    weeks, wk = weeks[first:], wk[first:]
+    cy, cw, ch = 124, 520, 150
+    o.append(f'<text class="t" x="0" y="{cy}" {F} font-size="13" font-weight="600">Weekly contributions</text>')
+    top_y, base = cy + 28, cy + ch
+    mx = max(wk) or 1
+    pts = [(i * cw / (len(wk) - 1), base - (v / mx) * (base - top_y)) for i, v in enumerate(wk)]
+    for g in (0, 0.5, 1):
+        y = base - g * (base - top_y)
+        o.append(f'<line class="l" x1="0" y1="{y:.1f}" x2="{cw}" y2="{y:.1f}" stroke-dasharray="{"0" if g == 0 else "2 4"}"/>')
+        if g:
+            o.append(f'<text class="m" x="{cw+6}" y="{y+3:.1f}" {F} font-size="10">{int(mx*g)}</text>')
+    line = " ".join(f"{x:.1f},{y:.1f}" for x, y in pts)
+    o.append(f'<polygon class="c2" opacity="0.28" points="0,{base} {line} {cw},{base}"/>')
+    o.append(f'<polyline fill="none" class="gs" stroke-width="2" stroke-linejoin="round" points="{line}"/>')
+    pk = wk.index(mx)
+    o.append(f'<circle class="c4" cx="{pts[pk][0]:.1f}" cy="{pts[pk][1]:.1f}" r="3.5"/>')
+    o.append(f'<text class="m" x="{min(pts[pk][0], cw-60):.1f}" y="{pts[pk][1]-9:.1f}" {F} font-size="10">peak week: {mx}</text>')
+    last = None
     for i, w in enumerate(weeks):
-        m = w["contributionDays"][0]["date"][5:7]
-        if m != last_m and 1 < i < len(weeks) - 2:
-            o.append(f'<text class="m" x="{gx+i*step:.1f}" y="{gy-8}" {F} font-size="10">'
+        m = w["contributionDays"][-1]["date"][5:7]
+        if m != last and 0 < i < len(weeks) - 2:
+            o.append(f'<text class="m" x="{pts[i][0]:.1f}" y="{base+16}" {F} font-size="10" text-anchor="middle">'
                      f'{datetime.strptime(m, "%m").strftime("%b")}</text>')
-            last_m = m
-        for d in w["contributionDays"]:
-            c = d["contributionCount"]
-            lvl = 0 if c == 0 else 1 + min(3, int(4 * (c - 1) / peak))
-            wd = datetime.strptime(d["date"], "%Y-%m-%d").weekday()
-            row = (wd + 1) % 7  # Sunday first, as on GitHub
-            o.append(f'<rect class="c{lvl}" x="{gx+i*step:.1f}" y="{gy+row*step:.1f}" width="{cell}" height="{cell}" rx="2">'
-                     f'<title>{c} contributions on {d["date"]}</title></rect>')
-    ly = gy + 7 * step + 14
-    o.append(f'<text class="m" x="{W-150}" y="{ly+9}" {F} font-size="10" text-anchor="end">Less</text>')
-    for k in range(5):
-        o.append(f'<rect class="c{k}" x="{W-142+k*16}" y="{ly}" width="{cell}" height="{cell}" rx="2"/>')
-    o.append(f'<text class="m" x="{W-56}" y="{ly+9}" {F} font-size="10">More</text>')
+        last = m
 
+    # weekday pattern (horizontal bars)
+    wx, ww = 590, W - 590
+    names = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+    tot_wd = [0] * 7
+    for w in weeks:
+        for d in w["contributionDays"]:
+            tot_wd[datetime.strptime(d["date"], "%Y-%m-%d").weekday()] += d["contributionCount"]
+    mw = max(tot_wd) or 1
+    o.append(f'<text class="t" x="{wx}" y="{cy}" {F} font-size="13" font-weight="600">Busiest days of the week</text>')
+    for i, (n_, v) in enumerate(zip(names, tot_wd)):
+        y = cy + 24 + i * 20
+        o.append(f'<text class="m" x="{wx}" y="{y+10}" {F} font-size="11">{n_}</text>')
+        bwid = max(2, (ww - 76) * v / mw)
+        o.append(f'<rect class="c3" x="{wx+34}" y="{y}" width="{bwid:.1f}" height="12" rx="2"/>')
+        o.append(f'<text class="m" x="{wx+34+bwid+6:.1f}" y="{y+10}" {F} font-size="10">{v}</text>')
+    ly = base
     # languages: one stacked bar plus an inline legend
-    ty = ly + 40
+    ty = ly + 56
     o.append(f'<line class="l" x1="0" y1="{ty-20}" x2="{W}" y2="{ty-20}"/>')
     o.append(f'<text class="t" x="0" y="{ty}" {F} font-size="13" font-weight="600">Languages, by share of code</text>')
     o.append(f'<clipPath id="r"><rect x="0" y="{ty+14}" width="{W}" height="10" rx="5"/></clipPath><g clip-path="url(#r)">')

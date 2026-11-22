@@ -84,7 +84,7 @@ Each one runs live, with source and documentation on GitHub.
 ### GitHub activity
 
 <p align="center">
-  <img src="assets/stats.svg?v=4" width="860" alt="GitHub activity summary: contributions, repositories, languages and monthly activity" />
+  <img src="assets/stats.svg?v=5" width="860" alt="GitHub activity summary: contributions, repositories, weekly trend, busiest weekdays and languages" />
 </p>
 
 <p align="center"><sub>Generated from the GitHub API and refreshed daily. Repository and language figures cover public repositories.</sub></p>
