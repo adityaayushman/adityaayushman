@@ -45,6 +45,19 @@
 
 ---
 
+### 🏆 Achievements
+
+| | |
+|---|---|
+| 📄 **Published research** | *Cloud Computing Resource Optimizer*, SSRN preprint (2026). XGBoost forecasting + Deep Q-Network autoscaling with explainable AI. [Read the paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6957438) |
+| 💼 **5 industry and research internships** | Research Intern at **KIIT** (AI medical imaging) · Flutter Developer at **Osswal Infosystem** (SAP partner) · AI/ML at **Kukreja's Wastec** (PCB defect inspection) · **Syllogistek Systems** · **Silicon Institute of Technology** |
+| 🚀 **Systems shipped end to end** | 6 ML products from model to API to live dashboard, each with explainability built in. See the projects above |
+| 👥 **Leadership** | Committee Head at **Aaruush**, SRM's national techno-management fest · Committee Member, **SRM MUN Society** |
+| 🧮 **Problem solving** | 300+ problems solved on [LeetCode](https://leetcode.com/u/AdityaAyushmanSahoo/), including about 65 Hard |
+| 🎓 **Certifications** | NPTEL Java · Cisco Networking Basics · MathWorks Deep Learning Onramp · AICTE NEAT Cybersecurity Virtual Internship · Tata Data Visualisation (Forage) |
+
+---
+
 ### 🧰 Tech stack
 
 **Languages**
