@@ -56,7 +56,7 @@ Each one runs live, with source and documentation on GitHub.
 | **[PCBMind AI](https://github.com/adityaayushman/pcb-mind)** | Upload a board photo and get annotated defects, severity and a QA report in seconds, with golden-board comparison and an LLM copilot | [Live](https://pcbmind-ai.vercel.app) |
 | **[GridSense](https://github.com/adityaayushman/GRIDSENSE)** | Schedules home EV charging against real grid carbon and price data. One street transformer hosts about **4× more EVs** (median 4.1× over 20 fleet draws, range 3.3–5.3×) | [Live](https://gridsense-app-drab.vercel.app) |
 | **[MedChron AI](https://github.com/adityaayushman/medvision)** | Brain-MRI tumor classification at 85.7% accuracy and ROC-AUC 0.969, with Grad-CAM explanations and a patient Digital Twin | [Live](https://medchron-ai.vercel.app) |
-| **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | In closed-loop simulation on real cloud traces, cuts cost 19–40% against an ML-only baseline, with task failures under 1% | [API docs](https://cloud-resource-optimizer-api.onrender.com/docs) |
+| **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | In closed-loop simulation on real cloud traces, cuts cost 19–40% against an ML-only baseline, with task failures under 1% | [Live](https://cloud-resource-optimizer.vercel.app) · [API](https://cloud-resource-optimizer-api.onrender.com/docs) |
 | **[Pre-Impact Fall Anticipation](https://github.com/adityaayushman/FBimpact)** | Predicts a fall before impact and names the joints that signalled it. Runs at 61 fps on GPU and 28.6 fps on CPU, and only skeletons are sent to the server | [Live](https://fbimpact.vercel.app) · [API](https://fbimpact-api.onrender.com/docs) |
 
 ---
