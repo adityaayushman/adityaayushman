@@ -5,7 +5,7 @@
 <text x="828" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e" text-anchor="end">Live from the GitHub API · updated 22 Nov 2026</text>
 <rect x="32" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
 <rect x="32" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
-<text x="54" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">680</text>
+<text x="54" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">681</text>
 <text x="54" y="144" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">contributions, last 12 months</text>
 <rect x="236" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
 <rect x="236" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
@@ -38,22 +38,22 @@
 <rect x="418.7" y="305.9" width="56" height="66.1" rx="5" fill="url(#g)" opacity="0.92"/>
 <text x="446.7" y="297.9" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">131</text>
 <text x="446.7" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Oct</text>
-<rect x="496.0" y="339.2" width="56" height="32.8" rx="5" fill="url(#g)" opacity="0.92"/>
-<text x="524.0" y="331.2" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">65</text>
+<rect x="496.0" y="338.7" width="56" height="33.3" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="524.0" y="330.7" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">66</text>
 <text x="524.0" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Nov</text>
 <text x="596" y="212" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">Languages by code written</text>
 <text x="596" y="242" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">Python</text>
 <text x="828" y="242" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">52%</text>
 <rect x="596" y="250" width="232" height="8" rx="4" fill="#21262d"/>
-<rect x="596" y="250" width="120.5" height="8" rx="4" fill="#3572A5"/>
+<rect x="596" y="250" width="120.7" height="8" rx="4" fill="#3572A5"/>
 <text x="596" y="278" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">TypeScript</text>
-<text x="828" y="278" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">30%</text>
+<text x="828" y="278" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">29%</text>
 <rect x="596" y="286" width="232" height="8" rx="4" fill="#21262d"/>
-<rect x="596" y="286" width="68.5" height="8" rx="4" fill="#3178c6"/>
+<rect x="596" y="286" width="68.4" height="8" rx="4" fill="#3178c6"/>
 <text x="596" y="314" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">HTML</text>
 <text x="828" y="314" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">8%</text>
 <rect x="596" y="322" width="232" height="8" rx="4" fill="#21262d"/>
-<rect x="596" y="322" width="19.3" height="8" rx="4" fill="#e34c26"/>
+<rect x="596" y="322" width="19.2" height="8" rx="4" fill="#e34c26"/>
 <text x="596" y="350" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">JavaScript</text>
 <text x="828" y="350" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">4%</text>
 <rect x="596" y="358" width="232" height="8" rx="4" fill="#21262d"/>
