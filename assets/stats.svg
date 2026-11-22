@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="860" height="430" viewBox="0 0 860 430" role="img" aria-label="GitHub activity dashboard for adityaayushman">
+<defs><linearGradient id="g" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#a371f7"/><stop offset="1" stop-color="#388bfd"/></linearGradient><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#0d1117"/><stop offset="1" stop-color="#161b22"/></linearGradient></defs>
+<rect x="0.5" y="0.5" width="859" height="429" rx="16" fill="url(#bg)" stroke="#30363d"/>
+<text x="32" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="20" font-weight="700" fill="#f0f6fc">GitHub, at a glance</text>
+<text x="828" y="46" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e" text-anchor="end">Live from the GitHub API · updated 22 Nov 2026</text>
+<rect x="32" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="32" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
+<text x="54" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">680</text>
+<text x="54" y="144" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">contributions, last 12 months</text>
+<rect x="236" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="236" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
+<text x="258" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">17</text>
+<text x="258" y="144" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">repos active in 90 days</text>
+<rect x="440" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="440" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
+<text x="462" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">6</text>
+<text x="462" y="144" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">live ML products</text>
+<rect x="644" y="70" width="188" height="92" rx="12" fill="#0d1117" stroke="#30363d"/>
+<rect x="644" y="70" width="4" height="92" rx="2" fill="url(#g)"/>
+<text x="666" y="118" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="36" font-weight="700" fill="#f0f6fc">11</text>
+<text x="666" y="144" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="12" fill="#8b949e">languages shipped</text>
+<text x="32" y="212" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">Contributions by month</text>
+<rect x="32.0" y="369.0" width="56" height="3.0" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="60.0" y="361.0" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">5</text>
+<text x="60.0" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">May</text>
+<rect x="109.3" y="343.8" width="56" height="28.2" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="137.3" y="335.8" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">56</text>
+<text x="137.3" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Jun</text>
+<rect x="186.7" y="252.0" width="56" height="120.0" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="214.7" y="244.0" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">238</text>
+<text x="214.7" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Jul</text>
+<rect x="264.0" y="320.1" width="56" height="51.9" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="292.0" y="312.1" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">103</text>
+<text x="292.0" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Aug</text>
+<rect x="341.3" y="330.7" width="56" height="41.3" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="369.3" y="322.7" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">82</text>
+<text x="369.3" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Sep</text>
+<rect x="418.7" y="305.9" width="56" height="66.1" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="446.7" y="297.9" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">131</text>
+<text x="446.7" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Oct</text>
+<rect x="496.0" y="339.2" width="56" height="32.8" rx="5" fill="url(#g)" opacity="0.92"/>
+<text x="524.0" y="331.2" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#c9d1d9" text-anchor="middle">65</text>
+<text x="524.0" y="388" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="11" fill="#8b949e" text-anchor="middle">Nov</text>
+<text x="596" y="212" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="14" font-weight="600" fill="#f0f6fc">Languages by code written</text>
+<text x="596" y="242" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">Python</text>
+<text x="828" y="242" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">52%</text>
+<rect x="596" y="250" width="232" height="8" rx="4" fill="#21262d"/>
+<rect x="596" y="250" width="120.5" height="8" rx="4" fill="#3572A5"/>
+<text x="596" y="278" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">TypeScript</text>
+<text x="828" y="278" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">30%</text>
+<rect x="596" y="286" width="232" height="8" rx="4" fill="#21262d"/>
+<rect x="596" y="286" width="68.5" height="8" rx="4" fill="#3178c6"/>
+<text x="596" y="314" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">HTML</text>
+<text x="828" y="314" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">8%</text>
+<rect x="596" y="322" width="232" height="8" rx="4" fill="#21262d"/>
+<rect x="596" y="322" width="19.3" height="8" rx="4" fill="#e34c26"/>
+<text x="596" y="350" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">JavaScript</text>
+<text x="828" y="350" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">4%</text>
+<rect x="596" y="358" width="232" height="8" rx="4" fill="#21262d"/>
+<rect x="596" y="358" width="9.8" height="8" rx="4" fill="#f1e05a"/>
+<text x="596" y="386" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#c9d1d9">CSS</text>
+<text x="828" y="386" font-family="'Segoe UI',-apple-system,Helvetica,Arial,sans-serif" font-size="13" fill="#8b949e" text-anchor="end">3%</text>
+<rect x="596" y="394" width="232" height="8" rx="4" fill="#21262d"/>
+<rect x="596" y="394" width="8.0" height="8" rx="4" fill="#8957e5"/>
+</svg>

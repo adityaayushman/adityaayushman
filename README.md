@@ -30,15 +30,15 @@
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://trie-dashboard.vercel.app"><img src="github-demos/TRIE/demo.webp" alt="Smart Road Guardian AI X demo" width="260" /></a><br />
+      <a href="https://trie-dashboard.vercel.app"><img src="assets/demos/TRIE.webp" alt="Smart Road Guardian AI X demo" width="270" /></a><br />
       <b>Smart Road Guardian AI X</b><br />Road-accident risk, explained
     </td>
     <td align="center" width="33%">
-      <a href="https://pcbmind-ai.vercel.app"><img src="github-demos/pcb-mind/demo.webp" alt="PCBMind AI demo" width="260" /></a><br />
+      <a href="https://pcbmind-ai.vercel.app"><img src="assets/demos/pcb-mind.webp" alt="PCBMind AI demo" width="270" /></a><br />
       <b>PCBMind AI</b><br />PCB defect inspection from a photo
     </td>
     <td align="center" width="33%">
-      <a href="https://gridsense-app-drab.vercel.app"><img src="github-demos/GRIDSENSE/demo.webp" alt="GridSense demo" width="260" /></a><br />
+      <a href="https://gridsense-app-drab.vercel.app"><img src="assets/demos/GRIDSENSE.webp" alt="GridSense demo" width="270" /></a><br />
       <b>GridSense</b><br />Carbon-aware EV charging
     </td>
   </tr>
@@ -82,9 +82,22 @@ Each one runs live, with source and documentation on GitHub.
 
 ---
 
-### 📊 GitHub stats
+### 📊 The numbers
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.shion.dev/api?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&show_icons=true" />
-  <img height="165" src="https://github-readme-stats.shion.dev/api/top-langs/?username=adityaayushman&theme=dark&bg_color=000000&hide_border=true&layout=compact" />
+  <img src="assets/stats.svg" width="860" alt="GitHub activity dashboard: contributions, active repositories, live products, languages and monthly activity" />
 </p>
+
+<p align="center"><sub>Generated from the GitHub API and refreshed daily. No third-party widgets.</sub></p>
+
+---
+
+<div align="center">
+
+### 🤝 Thank you for stopping by
+
+Thank you for taking the time to look through my work. I care about building things that are honest, explainable and genuinely useful, and I would value the chance to build them with your team.
+
+<a href="mailto:adityaasahoo@gmail.com"><img src="https://img.shields.io/badge/Let%27s_talk-adityaasahoo%40gmail.com-6A1B9A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+</div>
