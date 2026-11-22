@@ -76,8 +76,8 @@ Each one runs live, with source and documentation on GitHub.
 
 ### 🧰 Core skills
 
-**ML and vision:** PyTorch · TensorFlow · YOLO · OpenCV · XGBoost · Reinforcement Learning · Explainable AI
-**Engineering:** Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Supabase · Docker · Flutter
+**ML and vision:** PyTorch · TensorFlow · YOLO · OpenCV · XGBoost · Reinforcement Learning · Explainable AI<br>
+**Engineering:** Python · TypeScript · FastAPI · Next.js · React · PostgreSQL · Supabase · Docker · Flutter<br>
 **Delivery:** Vercel · Render · AWS · GitHub Actions
 
 ---
