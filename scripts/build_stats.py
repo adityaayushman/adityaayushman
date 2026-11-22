@@ -95,7 +95,7 @@ def main():
          '@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.m{fill:#9198a1}.l{stroke:#3d444d}.b{fill:#9198a1}.c0{fill:#151b23}.c1{fill:#033a16}.c2{fill:#196c2e}.c3{fill:#2ea043}.c4{fill:#56d364}}</style>']
 
     kpis = [(f"{contrib_total:,}", "Contributions, last 12 months"), (str(pub), "Public repositories"),
-            (str(active), "Updated in the last 90 days"), (str(len(langs)), "Languages used")]
+            (str(len(langs)), "Languages used")]
     cw_ = (W - 2) / 3
     for i, (val, label) in enumerate(kpis):
         x = 1 + i * cw_

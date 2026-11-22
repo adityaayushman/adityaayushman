@@ -1,16 +1,13 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="884" height="410" viewBox="-12 0 884 410" role="img" aria-label="GitHub activity summary for adityaayushman">
 <style>.t{fill:#1f2328}.m{fill:#59636e}.l{stroke:#d1d9e0}.b{fill:#59636e}.c0{fill:#ebedf0}.c1{fill:#9be9a8}.c2{fill:#40c463}.c3{fill:#30a14e}.c4{fill:#216e39}@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.m{fill:#9198a1}.l{stroke:#3d444d}.b{fill:#9198a1}.c0{fill:#151b23}.c1{fill:#033a16}.c2{fill:#196c2e}.c3{fill:#2ea043}.c4{fill:#56d364}}</style>
-<text class="t" x="1" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">735</text>
+<text class="t" x="1" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">736</text>
 <text class="m" x="1" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Contributions, last 12 months</text>
 <line class="l" x1="287" y1="14" x2="287" y2="70"/>
 <text class="t" x="311" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">22</text>
 <text class="m" x="311" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Public repositories</text>
 <line class="l" x1="573" y1="14" x2="573" y2="70"/>
-<text class="t" x="597" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">22</text>
-<text class="m" x="597" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Updated in the last 90 days</text>
-<line class="l" x1="859" y1="14" x2="859" y2="70"/>
-<text class="t" x="883" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">12</text>
-<text class="m" x="883" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Languages used</text>
+<text class="t" x="597" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">12</text>
+<text class="m" x="597" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Languages used</text>
 <line class="l" x1="0" y1="96" x2="860" y2="96"/>
 <text class="t" x="0" y="124" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600">Contributions in the last year</text>
 <rect class="c0" x="0.0" y="164.0" width="12" height="12" rx="2"><title>0 contributions on 2025-11-23</title></rect>
@@ -389,7 +386,7 @@
 <rect class="c1" x="785.4" y="225.6" width="12" height="12" rx="2"><title>12 contributions on 2026-11-19</title></rect>
 <rect class="c1" x="785.4" y="241.0" width="12" height="12" rx="2"><title>5 contributions on 2026-11-20</title></rect>
 <rect class="c1" x="785.4" y="256.4" width="12" height="12" rx="2"><title>10 contributions on 2026-11-21</title></rect>
-<rect class="c4" x="800.8" y="164.0" width="12" height="12" rx="2"><title>66 contributions on 2026-11-22</title></rect>
+<rect class="c4" x="800.8" y="164.0" width="12" height="12" rx="2"><title>67 contributions on 2026-11-22</title></rect>
 <text class="m" x="710" y="294.8" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="end">Less</text>
 <rect class="c0" x="718" y="285.8" width="12" height="12" rx="2"/>
 <rect class="c1" x="734" y="285.8" width="12" height="12" rx="2"/>
