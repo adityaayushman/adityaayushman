@@ -7,6 +7,11 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=620&lines=B.Tech+CSE+(AI%2FML)+%40+SRM+IST+%E2%80%9927;I+ship+ML+models+as+deployed%2C+explainable+products;Computer+Vision+%C2%B7+Reinforcement+Learning+%C2%B7+XAI" alt="Typing SVG" /></a>
 
 <p>
+  <a href="https://pf-eight-xi.vercel.app"><img src="https://img.shields.io/badge/View_my_Portfolio-6A1B9A?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+  <a href="https://pf-eight-xi.vercel.app/resume.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-PDF-0e75b6?style=for-the-badge&logo=readme&logoColor=white" /></a>
+</p>
+
+<p>
   <a href="https://www.linkedin.com/in/aditya-ayushman-sahoo-243b81287/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:adityaasahoo@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://stackoverflow.com/users/32775623/aditya-ayushman-sahoo"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stackoverflow&logoColor=white" /></a>
@@ -37,7 +42,6 @@
 | 🩺 **[MedChron AI](https://github.com/adityaayushman/medvision)** | Medical imaging platform with Grad-CAM explainability and a patient Digital Twin | PyTorch · EfficientNet · OpenCV · FastAPI · Next.js | [Live](https://medchron-ai.vercel.app) |
 | ☁️ **[CloudOptima](https://github.com/adityaayushman/Cloud-Resource-Optimizer)** | Multi-cloud autoscaler: XGBoost forecasting + Deep Q-Network, explained with SHAP | XGBoost · DQN · scikit-learn · FastAPI · React | [Live](https://cloudresourceoptimizer.vercel.app) |
 | 🧓 **[Pre-Impact Fall Anticipation](https://github.com/adityaayushman/FBimpact)** | Privacy-preserving ST-GCN that predicts elderly falls before impact | PyTorch · ST-GCN · TensorFlow.js · FastAPI | [Live](https://fbimpact.vercel.app) · [API](https://fbimpact-api.onrender.com/docs) |
-| 🌐 **[Portfolio](https://github.com/adityaayushman/pf)** | Scroll-driven personal site with live GitHub and LeetCode stats and an "Ask me" assistant (Claude-backed, with a keyless fallback) | Next.js · TypeScript · Tailwind · Framer Motion | [Live](https://pf-eight-xi.vercel.app) |
 
 ---
 
