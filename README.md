@@ -30,15 +30,15 @@ Open to 2027 ML and software engineering roles and internships.
 <table>
   <tr>
     <td align="center" width="33%">
-      <a href="https://trie-dashboard.vercel.app"><img src="assets/demos/TRIE.webp" alt="Smart Road Guardian AI X demo" width="270" /></a><br />
+      <a href="https://trie-dashboard.vercel.app"><img src="assets/demos/TRIE.webp?v=2" alt="Smart Road Guardian AI X demo" width="270" /></a><br />
       <b>Smart Road Guardian AI X</b><br />Road-accident risk, explained
     </td>
     <td align="center" width="33%">
-      <a href="https://pcbmind-ai.vercel.app"><img src="assets/demos/pcb-mind.webp" alt="PCBMind AI demo" width="270" /></a><br />
+      <a href="https://pcbmind-ai.vercel.app"><img src="assets/demos/pcb-mind.webp?v=2" alt="PCBMind AI demo" width="270" /></a><br />
       <b>PCBMind AI</b><br />PCB defect inspection from a photo
     </td>
     <td align="center" width="33%">
-      <a href="https://gridsense-app-drab.vercel.app"><img src="assets/demos/GRIDSENSE.webp" alt="GridSense demo" width="270" /></a><br />
+      <a href="https://gridsense-app-drab.vercel.app"><img src="assets/demos/GRIDSENSE.webp?v=2" alt="GridSense demo" width="270" /></a><br />
       <b>GridSense</b><br />Carbon-aware EV charging
     </td>
   </tr>
