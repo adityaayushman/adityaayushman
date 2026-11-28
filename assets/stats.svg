@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="884" height="400" viewBox="-12 0 884 400" role="img" aria-label="GitHub activity summary for adityaayushman">
 <style>.t{fill:#1f2328}.m{fill:#59636e}.l{stroke:#d1d9e0}.b{fill:#59636e}.gs{stroke:#30a14e}.c0{fill:#ebedf0}.c1{fill:#9be9a8}.c2{fill:#40c463}.c3{fill:#30a14e}.c4{fill:#216e39}@media (prefers-color-scheme:dark){.t{fill:#f0f6fc}.m{fill:#9198a1}.l{stroke:#3d444d}.b{fill:#9198a1}.gs{stroke:#2ea043}.c0{fill:#151b23}.c1{fill:#033a16}.c2{fill:#196c2e}.c3{fill:#2ea043}.c4{fill:#56d364}}</style>
-<text class="t" x="1" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">1,293</text>
+<text class="t" x="1" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">1,301</text>
 <text class="m" x="1" y="68" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Contributions, last 12 months</text>
 <line class="l" x1="287" y1="14" x2="287" y2="70"/>
 <text class="t" x="311" y="46" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="30" font-weight="600">24</text>
@@ -12,13 +12,13 @@
 <text class="t" x="0" y="124" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600">Weekly contributions</text>
 <line class="l" x1="0" y1="274.0" x2="520" y2="274.0" stroke-dasharray="0"/>
 <line class="l" x1="0" y1="213.0" x2="520" y2="213.0" stroke-dasharray="2 4"/>
-<text class="m" x="526" y="216.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">97</text>
+<text class="m" x="526" y="216.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">101</text>
 <line class="l" x1="0" y1="152.0" x2="520" y2="152.0" stroke-dasharray="2 4"/>
-<text class="m" x="526" y="155.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">195</text>
-<polygon class="c2" opacity="0.28" points="0,274 0.0,274.0 18.6,274.0 37.1,270.9 55.7,274.0 74.3,266.5 92.9,268.4 111.4,253.4 130.0,272.1 148.6,204.6 167.1,173.9 185.7,257.7 204.3,239.0 222.9,274.0 241.4,214.6 260.0,245.8 278.6,254.6 297.1,216.4 315.7,253.4 334.3,255.2 352.9,272.7 371.4,269.0 390.0,227.7 408.6,219.6 427.1,260.2 445.7,235.2 464.3,272.7 482.9,270.2 501.4,215.2 520.0,152.0 520,274"/>
-<polyline fill="none" class="gs" stroke-width="2" stroke-linejoin="round" points="0.0,274.0 18.6,274.0 37.1,270.9 55.7,274.0 74.3,266.5 92.9,268.4 111.4,253.4 130.0,272.1 148.6,204.6 167.1,173.9 185.7,257.7 204.3,239.0 222.9,274.0 241.4,214.6 260.0,245.8 278.6,254.6 297.1,216.4 315.7,253.4 334.3,255.2 352.9,272.7 371.4,269.0 390.0,227.7 408.6,219.6 427.1,260.2 445.7,235.2 464.3,272.7 482.9,270.2 501.4,215.2 520.0,152.0"/>
+<text class="m" x="526" y="155.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">203</text>
+<polygon class="c2" opacity="0.28" points="0,274 0.0,274.0 18.6,274.0 37.1,271.0 55.7,274.0 74.3,266.8 92.9,268.6 111.4,254.2 130.0,272.2 148.6,207.3 167.1,177.8 185.7,258.4 204.3,240.3 222.9,274.0 241.4,216.9 260.0,247.0 278.6,255.4 297.1,218.7 315.7,254.2 334.3,256.0 352.9,272.8 371.4,269.2 390.0,229.5 408.6,221.7 427.1,260.8 445.7,236.7 464.3,272.8 482.9,270.4 501.4,217.5 520.0,152.0 520,274"/>
+<polyline fill="none" class="gs" stroke-width="2" stroke-linejoin="round" points="0.0,274.0 18.6,274.0 37.1,271.0 55.7,274.0 74.3,266.8 92.9,268.6 111.4,254.2 130.0,272.2 148.6,207.3 167.1,177.8 185.7,258.4 204.3,240.3 222.9,274.0 241.4,216.9 260.0,247.0 278.6,255.4 297.1,218.7 315.7,254.2 334.3,256.0 352.9,272.8 371.4,269.2 390.0,229.5 408.6,221.7 427.1,260.8 445.7,236.7 464.3,272.8 482.9,270.4 501.4,217.5 520.0,152.0"/>
 <circle class="c4" cx="520.0" cy="152.0" r="3.5"/>
-<text class="m" x="460.0" y="143.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">peak week: 195</text>
+<text class="m" x="460.0" y="143.0" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">peak week: 203</text>
 <text class="m" x="55.7" y="290" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">Jun</text>
 <text class="m" x="130.0" y="290" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">Jul</text>
 <text class="m" x="204.3" y="290" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10" text-anchor="middle">Aug</text>
@@ -39,22 +39,22 @@
 <rect class="c3" x="624" y="208" width="194.0" height="12" rx="2"/>
 <text class="m" x="824.0" y="218" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">252</text>
 <text class="m" x="590" y="238" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Fri</text>
-<rect class="c3" x="624" y="228" width="126.3" height="12" rx="2"/>
-<text class="m" x="756.3" y="238" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">164</text>
+<rect class="c3" x="624" y="228" width="128.6" height="12" rx="2"/>
+<text class="m" x="758.6" y="238" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">167</text>
 <text class="m" x="590" y="258" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Sat</text>
-<rect class="c3" x="624" y="248" width="123.9" height="12" rx="2"/>
-<text class="m" x="753.9" y="258" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">161</text>
+<rect class="c3" x="624" y="248" width="127.8" height="12" rx="2"/>
+<text class="m" x="757.8" y="258" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">166</text>
 <text class="m" x="590" y="278" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="11">Sun</text>
 <rect class="c3" x="624" y="268" width="140.1" height="12" rx="2"/>
 <text class="m" x="770.1" y="278" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="10">182</text>
 <line class="l" x1="0" y1="310" x2="860" y2="310"/>
 <text class="t" x="0" y="330" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="13" font-weight="600">Languages, by share of code</text>
 <clipPath id="r"><rect x="0" y="344" width="860" height="10" rx="5"/></clipPath><g clip-path="url(#r)">
-<rect x="0.0" y="344" width="415.5" height="10" fill="#3572A5"/>
-<rect x="415.5" y="344" width="295.1" height="10" fill="#3178c6"/>
-<rect x="710.5" y="344" width="88.2" height="10" fill="#e34c26"/>
-<rect x="798.7" y="344" width="33.5" height="10" fill="#f1e05a"/>
-<rect x="832.2" y="344" width="27.8" height="10" fill="#8b949e"/>
+<rect x="0.0" y="344" width="413.6" height="10" fill="#3572A5"/>
+<rect x="413.6" y="344" width="293.0" height="10" fill="#3178c6"/>
+<rect x="706.5" y="344" width="86.7" height="10" fill="#e34c26"/>
+<rect x="793.2" y="344" width="33.9" height="10" fill="#8b949e"/>
+<rect x="827.1" y="344" width="32.9" height="10" fill="#f1e05a"/>
 </g>
 <circle cx="5" cy="372" r="5" fill="#3572A5"/>
 <text class="t" x="16" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">Python <tspan class="m">46%</tspan></text>
@@ -62,8 +62,8 @@
 <text class="t" x="166" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">TypeScript <tspan class="m">33%</tspan></text>
 <circle cx="305" cy="372" r="5" fill="#e34c26"/>
 <text class="t" x="316" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">HTML <tspan class="m">10%</tspan></text>
-<circle cx="455" cy="372" r="5" fill="#f1e05a"/>
-<text class="t" x="466" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">JavaScript <tspan class="m">4%</tspan></text>
-<circle cx="605" cy="372" r="5" fill="#8b949e"/>
-<text class="t" x="616" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">TeX <tspan class="m">3%</tspan></text>
+<circle cx="455" cy="372" r="5" fill="#8b949e"/>
+<text class="t" x="466" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">TeX <tspan class="m">4%</tspan></text>
+<circle cx="605" cy="372" r="5" fill="#f1e05a"/>
+<text class="t" x="616" y="376" font-family="-apple-system,'Segoe UI',Helvetica,Arial,sans-serif" font-size="12">JavaScript <tspan class="m">4%</tspan></text>
 </svg>
